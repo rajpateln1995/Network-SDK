@@ -1,34 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" 
-     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" 
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>com.group.module</groupId>
-  <artifactId>final</artifactId>
-  <version>1.0</version>
-  <dependencies>
-    <dependency>
-        <groupId>androidx.core</groupId>
-        <artifactId>core-ktx</artifactId>
-        <version>1.13.1</version>
-    </dependency>
-    
-  </dependencies>
-</project>
-<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns="http://maven.apache.org/POM/4.0.0"
-    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
     <groupId>com.example.networksdk</groupId>
-
     <artifactId>final</artifactId>
-
     <version>1.0</version>
-
     <dependencies>
-           <!-- AndroidX Core KTX -->
+        <!-- AndroidX Core KTX -->
         <dependency>
             <groupId>androidx.core</groupId>
             <artifactId>core-ktx</artifactId>
@@ -87,5 +66,4 @@
             <version>2.9.0</version>
         </dependency>
     </dependencies>
-    l̥
 </project>
